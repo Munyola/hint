@@ -9,7 +9,7 @@
   "dependencies": {
     "@hint/utils": "^6.0.0",
     "@hint/utils-compat-data": "^1.0.0",
-    "lodash": "^4.17.15"
+    "lodash": "^4.17.19"
   },
   "description": "hint to validate if the HTML, CSS, and JavaScript APIs of the project are deprecated or not broadly supported",
   "devDependencies": {
