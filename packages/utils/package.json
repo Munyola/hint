@@ -19,7 +19,7 @@
     "file-type": "^12.3.0",
     "file-url": "^3.0.0",
     "globby": "^10.0.1",
-    "is-svg": "^4.2.0",
+    "is-svg": "^4.2.2",
     "is-wsl": "^2.1.1",
     "jsonc-parser": "^2.1.1",
     "lodash": "^4.17.21",
