@@ -1,0 +1,36 @@
+version: 2
+updates:
+- package-ecosystem: npm
+  directory: "/"
+  schedule:
+    interval: weekly
+    time: "02:00"
+  open-pull-requests-limit: 10
+  ignore:
+  - dependency-name: angular
+    versions:
+    - ">= 0"
+  - dependency-name: jquery
+    versions:
+    - ">= 0"
+  - dependency-name: mime-db
+    versions:
+    - "^1.35.0"
+  - dependency-name: "@types/node"
+    versions:
+    - "^10.12.18"
+  - dependency-name: react
+    versions:
+    - 16.13.1
+  - dependency-name: ava
+    versions:
+    - 3.11.1
+  - dependency-name: "@types/estree"
+    versions:
+    - 0.0.45
+  - dependency-name: elliptic
+    versions:
+    - 6.5.3
+  - dependency-name: react-syntax-highlighter
+    versions:
+    - 12.2.1
