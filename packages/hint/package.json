@@ -10,7 +10,7 @@
   "dependencies": {
     "@hint/utils": "^6.0.0",
     "boxen": "^4.1.0",
-    "browserslist": "^4.7.0",
+    "browserslist": "^4.16.5",
     "chalk": "^2.4.2",
     "eventemitter2": "^5.0.1",
     "globby": "^10.0.1",
